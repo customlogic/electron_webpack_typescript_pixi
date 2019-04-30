@@ -10,10 +10,11 @@ Includes:
 
 ## Getting Started
 
+``` bash
 git clone https://github.com/customlogic/electron_webpack_typescript_pixi.git
 cd electron_webpack_typescript_pixi
 rm -rf .git
-
+```
 
 ### Scripts
 
@@ -23,3 +24,4 @@ npm run dev
 
 # build application
 npm run dist
+```
